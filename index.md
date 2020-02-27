@@ -1,7 +1,7 @@
 ---
 title: "REET'20: Requirements Engineering Education and Training"
 ---
-
+# 10th International Workshop on Requirements Engineering Education and Training (REET)
 ## Zurich, Switzerland, August 31, 2020
 ## A workshop in conjunction with [RE'20](https://re20.org)
 
