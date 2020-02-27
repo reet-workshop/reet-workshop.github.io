@@ -1,9 +1,10 @@
 # This config file is adapted from the one in the GitHub Pages tutorial. 
 
-theme: jekyll-theme-dinky
+theme: jekyll-theme-minimal
 title: REET Workshop
 # author: Zach Oster
 email: reet20 at easychair dot org
+logo: ./RE20_Logo_RGB-269x300.jpg
 description: > # this means to ignore newlines until "baseurl:"
   Requirements Engineering Education and Training workshop series. 
   REET'20: August 31, 2020, Zurich, Switzerland, in conjunction with RE'20.
