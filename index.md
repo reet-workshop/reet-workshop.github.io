@@ -29,7 +29,7 @@ Extended abstracts (maximum 2 pages) can be on any of the topics within the scop
   3. educational study design papers that propose an empirical study where the authors are looking to get feedback prior to completing the study (or where only a proof of concept has been completed). 
 
 #### Activity Summaries
-Activity summaries (maximum 2 pages + appendix) will describe a teaching activity and in a separate appendix provide the materials needed to reproduce that activity in the classroom. Workshop participants, **including paper authors**, will be encouraged to submit a RE activity. RE activities will be documented using a predefined format (_which will be posted by March 2, 2020_), and will focus on one or more RE skills, define target audience and learning goals, provide step-by-step guidelines for conducting the activity, including student hand-outs or associated slides, describe the context of the activity, and briefly comment on its prior use in the classroom. 
+Activity summaries (maximum 2 pages + appendix) will describe a teaching activity and in a separate appendix provide the materials needed to reproduce that activity in the classroom. Workshop participants, **including paper authors**, will be encouraged to submit a RE activity. RE activities will be documented using a predefined format (_which will be posted by March 9, 2020_), and will focus on one or more RE skills, define target audience and learning goals, provide step-by-step guidelines for conducting the activity, including student hand-outs or associated slides, describe the context of the activity, and briefly comment on its prior use in the classroom. 
 
 ### Submission Requirements
 
