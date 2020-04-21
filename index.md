@@ -15,6 +15,8 @@ This workshop also aims to foster collaboration and sharing of RE training mater
 
 This workshop is anticipated to address pedagogical and educational challenges in RE, and their practical impacts on the quality of current/future research studies conducted at the academic or industry levels. Bridging between a wide range of abstract concepts and practical techniques in RE is always a major challenge which needs development of skill sets that are not instructed in a single handbook and must be learned or taught by a combination of student-centered and active learning pedagogical methods. By continuing dialogue on these issues, we also anticipate opening new avenues of study and research, which will improve the skill set of learners at postsecondary institutions and in industry.
 
+**Updated 21 April 2020:** We welcome experience reports about changes to RE teaching and learning that have resulted from the COVID-19 pandemic and the rapid worldwide move to online teaching. These can be submitted in any category: full papers, extended abstracts, or activity summaries. REET will be a uniquely well-timed opportunity for RE educators to share how we have responded to these sudden changes and identify lessons that we can apply to improve RE education during and after the pandemic.
+
 ### Call for Participation
 
 We invite submissions of contributions in any of these categories. All contributions must be original and not simultaneously submitted to another journal or conference. Accepted papers with at least one author who registers for and presents at the workshop will be submitted for publication in the IEEE Xplore Digital Library. 
