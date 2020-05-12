@@ -1,4 +1,4 @@
-This template shows how you should structure RE education activity summaries for REET 2020. If you have questions about this template or anything else related to the REET workshop, please email the organizers at reet20 at easychair dot org.*
+This template shows how you should structure RE education activity summaries for REET 2020. If you have questions about this template or anything else related to the REET workshop, please email the organizers at reet20 at easychair dot org.
 
 To submit your activity, create one .zip file that includes 
 
@@ -7,14 +7,14 @@ To submit your activity, create one .zip file that includes
 
 When you are ready, upload this .zip file to [the REET'20 EasyChair site](https://easychair.org/conferences/?conf=reet20).
 
-** --- Delete everything before this line. --- **
+**--- Delete everything before this line. ---**
 
 # Title of RE Activity
 
 ## Author(s)
 
-First Author, University of Somewhere, email@example.edu
-Second Author, Somewhere Polytechnic University, email@example.edu
+* First Author, University of Somewhere, email@example.edu
+* Second Author, Somewhere Polytechnic University, email@example.edu
 
 ## Target Audience
 
