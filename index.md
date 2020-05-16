@@ -31,14 +31,17 @@ Extended abstracts (maximum 2 pages) can be on any of the topics within the scop
   3. educational study design papers that propose an empirical study where the authors are looking to get feedback prior to completing the study (or where only a proof of concept has been completed). 
 
 #### Activity Summaries
-Activity summaries (maximum 2 pages + appendix) will describe a teaching activity and in a separate appendix provide the materials needed to reproduce that activity in the classroom. Workshop participants, **including paper authors**, will be encouraged to submit a RE activity. RE activities will be documented using a predefined format, and will focus on one or more RE skills, define target audience and learning goals, provide step-by-step guidelines for conducting the activity, including student hand-outs or associated slides, describe the context of the activity, and briefly comment on its prior use in the classroom. 
+Activity summaries (maximum 2 pages + appendix) will describe a teaching activity and in a separate appendix provide the materials needed to reproduce that activity in the classroom. Workshop participants, **including paper authors**, will be encouraged to submit a RE activity. RE activities will focus on one or more RE skills, define target audience and learning goals, provide step-by-step guidelines for conducting the activity, including student hand-outs or associated slides, describe the context of the activity, and briefly comment on its prior use in the classroom. 
+
+RE activities will be documented using a predefined format. Templates for activity summaries are available for [LaTeX](./activity-templates/REET-activity-template.tex) ([sample PDF generated from LaTeX template](./activity-templates/REET-activity-template.pdf)) and for [Microsoft Word](./activity-templates/REET-activity-template.doc). These are based on the RE'20 conference submission templates.
 
 ### Submission Requirements
 
 Submissions must be 
 * written in English,
-* formatted according to the [RE'20 conference formatting instructions](https://re20.org/index.php/formatting-instructions/), and
+* formatted according to the [RE'20 conference formatting instructions](https://re20.org/index.php/formatting-instructions/) or the activity summary templates ([LaTeX](./activity-templates/REET-activity-template.tex) with [sample PDF](./activity-templates/REET-activity-template.pdf), [MS Word](./activity-templates/REET-activity-template.doc)), and
 * submitted as a single PDF file through the [EasyChair site for REET'20](https://easychair.org/conferences/?conf=reet20).
+  - *For activity summaries*: Submit only the 2-page activity summary document, in PDF format, at this time. If your activity summary is accepted, the organizing committee will contact you with instructions for submitting the materials for your activity as an appendix.
 
 REET does not require you to submit your title or abstract in advance.
 
@@ -81,3 +84,5 @@ The workshop will be co-located with the 28th IEEE International Requirements En
 ### Contact
 
 All questions about submissions should be emailed to reet20 at easychair dot org.
+
+For the latest updates, also [see the REET Workshop Twitter page](https://twitter.com/REETWorkshop).
