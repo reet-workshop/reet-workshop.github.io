@@ -5,6 +5,8 @@ title: "REET'20: Requirements Engineering Education and Training"
 ## Zurich, Switzerland, August 31, 2020
 ## A workshop in conjunction with [RE'20](https://re20.org)
 
+**Updated 23 May 2020:** We are extending the submission deadline for this workshop until *June 2, 2020 (Anywhere on Earth)*. 
+
 ### Overview
 
 The 10th International Workshop on Requirements Engineering Education and Training (REET) aims to close the gap between the RE needs of industry and the RE concepts and skills taught in our classrooms. Experience has shown that effective requirements engineering (RE) practices are essential to the success of software development projects, but many aspiring software developers still have few or no opportunities to learn or practice RE during their professional preparation. 
@@ -51,7 +53,7 @@ When you are ready, [submit your paper, extended abstract, or activity using Eas
 
 ### Important Dates
 
-* Submission deadline: May 22, 2020
+* Submission deadline: ~~May 22, 2020~~ **June 2, 2020**
 * Notification of authors: June 22, 2020
 * Camera-ready version deadline: _to be announced_
 
