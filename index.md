@@ -2,10 +2,30 @@
 title: "REET'20: Requirements Engineering Education and Training"
 ---
 # 10th International Workshop on Requirements Engineering Education and Training (REET)
-## Zurich, Switzerland, August 31, 2020
-## A workshop in conjunction with [RE'20](https://re20.org)
+## A virtual event on August 31, 2020
+## in conjunction with [RE'20](https://re20.org)
 
-**Updated 23 May 2020:** We are extending the submission deadline for this workshop until *June 2, 2020 (Anywhere on Earth)*. 
+### Tentative Schedule (subject to change)
+
+**This will be a fully virtual event**, although it is still held in conjunction with [RE'20](https://re20.org). 
+
+All times listed are in the Zurich time zone ([Central European Summer Time, which is UTC+2](https://en.wikipedia.org/wiki/Central_European_Summer_Time)).
+
+#### 15:00-16:30
+- Welcome, introductions, and goals (via [Lean Coffee](https://leancoffee.org/)).
+- Paper presentation 1
+- Activity Summary presentation
+- Lean Coffee breakout session 1
+
+#### 17:00-18:30
+- Paper presentation 2
+- Lean Coffee breakout session 2
+- Community Activity around COVID-19 and remote teaching
+- Closing
+
+### Registration
+
+You can register for this workshop, any other RE'20 workshops, or the main conference through the [RE'20 registration site](https://re20.org/index.php/registration/).
 
 ### Overview
 
