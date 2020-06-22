@@ -54,8 +54,8 @@ When you are ready, [submit your paper, extended abstract, or activity using Eas
 ### Important Dates
 
 * Submission deadline: ~~May 22, 2020~~ **June 2, 2020**
-* Notification of authors: June 22, 2020
-* Camera-ready version deadline: _to be announced_
+* Notification of authors: **June 22, 2020**
+* Camera-ready version deadline: **July 13, 2020**
 
 All deadlines are 23:59 [Anywhere on Earth (Standard Time)](http://www.timeanddate.com/time/zones/aoe).
 
