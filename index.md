@@ -5,21 +5,19 @@ title: "REET'20: Requirements Engineering Education and Training"
 ## A virtual event on August 31, 2020
 ## in conjunction with [RE'20](https://re20.org)
 
-### Tentative Schedule (subject to change)
-
-**This will be a fully virtual event**, although it is still held in conjunction with [RE'20](https://re20.org). 
+### Schedule
 
 All times listed are in the Zurich time zone ([Central European Summer Time, which is UTC+2](https://en.wikipedia.org/wiki/Central_European_Summer_Time)).
 
 #### 15:00-16:30
 - Welcome, introductions, and goals (via [Lean Coffee](https://leancoffee.org/)).
-- Paper presentation 1: _Chatbot-based Interview Simulator: A Feasible Approach to Train Novice Requirements Engineers_ (Muhammad Laiq and Oscar Dieste, Universidad Politécnica de Madrid, Spain) [20 minutes]
-- RE teaching activity summary presentation: _Estimation Game: What is the Size of Requirements Documents in Industry?_ (Bernd Westphal, Albert-Ludwigs-Universität Freiburg, Germany) [10 minutes]
+- Paper presentation: **Chatbot-based Interview Simulator: A Feasible Approach to Train Novice Requirements Engineers** (__Muhammad Laiq__ and Oscar Dieste, Universidad Politécnica de Madrid, Spain) [20 minutes]
+- RE teaching activity summary presentation: **Estimation Game: What is the Size of Requirements Documents in Industry?** (__Bernd Westphal__, Albert-Ludwigs-Universität Freiburg, Germany) [10 minutes]
 - Lean Coffee breakout session 1
 
 #### 17:00-18:30
-- Invited presentation: _Lessons Learned in Teaching Requirements Engineering with Role Playing_ (Paola Spoletini, Kennesaw State University, USA; Muneera Bano, Deakin University, Australia; Alessio Ferrari, ISTI-CNR, Italy; and Didar Zowghi, University of Technology, Sydney, Australia) [20 minutes]
-- Paper presentation 2: _Using an Astronaut Jetpack Project to Teach Human-CPS Requirements Engineering_ (Robyn Lutz, James Lathrop, Cameron Brecount, Kendal Gast, and Kathryn Rohlfing, Iowa State University, USA; Joshua Wallin, Northeastern University, USA) [10 minutes]
+- Invited presentation: **Lessons Learned in Teaching Requirements Engineering with Role Playing** (__Paola Spoletini__, Kennesaw State University, USA; Muneera Bano, Deakin University, Australia; Alessio Ferrari, ISTI-CNR, Italy; and Didar Zowghi, University of Technology, Sydney, Australia) [20 minutes]
+- Extended abstract presentation: **Using an Astronaut Jetpack Project to Teach Human-CPS Requirements Engineering** (__Robyn Lutz__, James Lathrop, Cameron Brecount, Kendal Gast, and Kathryn Rohlfing, Iowa State University, USA; Joshua Wallin, Northeastern University, USA) [10 minutes]
 - Lean Coffee breakout session 2
 - Community Activity around COVID-19 and remote teaching
 - Closing
