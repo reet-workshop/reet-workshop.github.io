@@ -13,12 +13,13 @@ All times listed are in the Zurich time zone ([Central European Summer Time, whi
 
 #### 15:00-16:30
 - Welcome, introductions, and goals (via [Lean Coffee](https://leancoffee.org/)).
-- Paper presentation 1
-- Activity Summary presentation
+- Paper presentation 1: _Chatbot-based Interview Simulator: A Feasible Approach to Train Novice Requirements Engineers_ (Muhammad Laiq and Oscar Dieste, Universidad Politécnica de Madrid, Spain) [20 minutes]
+- RE teaching activity summary presentation: _Estimation Game: What is the Size of Requirements Documents in Industry?_ (Bernd Westphal, Albert-Ludwigs-Universität Freiburg, Germany) [10 minutes]
 - Lean Coffee breakout session 1
 
 #### 17:00-18:30
-- Paper presentation 2
+- Invited presentation: _Lessons Learned in Teaching Requirements Engineering with Role Playing_ (Paola Spoletini, Kennesaw State University, USA; Muneera Bano, Deakin University, Australia; Alessio Ferrari, ISTI-CNR, Italy; and Didar Zowghi, University of Technology, Sydney, Australia) [20 minutes]
+- Paper presentation 2: _Using an Astronaut Jetpack Project to Teach Human-CPS Requirements Engineering_ (Robyn Lutz, James Lathrop, Cameron Brecount, Kendal Gast, and Kathryn Rohlfing, Iowa State University, USA; Joshua Wallin, Northeastern University, USA) [10 minutes]
 - Lean Coffee breakout session 2
 - Community Activity around COVID-19 and remote teaching
 - Closing
