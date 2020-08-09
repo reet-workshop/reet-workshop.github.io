@@ -13,6 +13,7 @@ All times listed are in the Zurich time zone ([Central European Summer Time, whi
 - Welcome, introductions, and goals (via [Lean Coffee](https://leancoffee.org/)).
 - Paper presentation: **Chatbot-based Interview Simulator: A Feasible Approach to Train Novice Requirements Engineers** (__Muhammad Laiq__ and Oscar Dieste, Universidad Politécnica de Madrid, Spain) [20 minutes]
 - RE teaching activity summary presentation: **Estimation Game: What is the Size of Requirements Documents in Industry?** (__Bernd Westphal__, Albert-Ludwigs-Universität Freiburg, Germany) [10 minutes]
+  - [Read the activity summary in our RE Teaching Activities repository](./activities/2020/est-reqt-doc-size.html)
 - Lean Coffee breakout session 1
 
 #### 17:00-18:30
@@ -55,6 +56,8 @@ Extended abstracts (maximum 2 pages) can be on any of the topics within the scop
 Activity summaries (maximum 2 pages + appendix) will describe a teaching activity and in a separate appendix provide the materials needed to reproduce that activity in the classroom. Workshop participants, **including paper authors**, will be encouraged to submit a RE activity. RE activities will focus on one or more RE skills, define target audience and learning goals, provide step-by-step guidelines for conducting the activity, including student hand-outs or associated slides, describe the context of the activity, and briefly comment on its prior use in the classroom. 
 
 RE activities will be documented using a predefined format. Templates for activity summaries are available for [LaTeX](./activity-templates/REET-activity-template.tex) ([sample PDF generated from LaTeX template](./activity-templates/REET-activity-template.pdf)) and for [Microsoft Word](./activity-templates/REET-activity-template.doc). These are based on the RE'20 conference submission templates.
+
+Accepted RE activity summaries will be included in the (new!) repository of [Activities for Teaching Requirements Engineering](./activities/). which is hosted by the REET Workshop organizers. These activities are freely available under a Creative Commons license. Authors of accepted activities will be invited to present their RE activity at the REET workshop; however, activity summaries will not be published in the workshop proceedings.
 
 ### Submission Requirements
 
