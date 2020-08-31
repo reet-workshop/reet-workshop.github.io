@@ -13,7 +13,7 @@ All times listed are in the Zurich time zone ([Central European Summer Time, whi
 - Welcome, introductions, and goals (via [Lean Coffee](https://leancoffee.org/)).
 - Paper presentation: **Chatbot-based Interview Simulator: A Feasible Approach to Train Novice Requirements Engineers** (__Muhammad Laiq__ and Oscar Dieste, Universidad Politécnica de Madrid, Spain) [20 minutes]
 - RE teaching activity summary presentation: **Estimation Game: What is the Size of Requirements Documents in Industry?** (__Bernd Westphal__, Albert-Ludwigs-Universität Freiburg, Germany) [10 minutes]
-  - [Read the activity summary in our RE Teaching Activities repository](./activities/2020/est-reqt-doc-size.html)
+  - [Read the activity summary in our RE Teaching Activities repository](./activities/2020/01/index.html)
 - Lean Coffee breakout session 1
 
 #### 17:00-18:30
